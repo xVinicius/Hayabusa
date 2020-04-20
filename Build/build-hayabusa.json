@@ -6,6 +6,6 @@
 "asmMemoryUrl": "build-hayabusa.asm.memory.unityweb",
 "asmFrameworkUrl": "build-hayabusa.asm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
-"splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
+"splashScreenStyle": "Light",
+"backgroundColor": "#80858B"
 }
